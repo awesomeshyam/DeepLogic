@@ -4,6 +4,6 @@ resource "azurerm_resource_group" "rg" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "rocky-rg"
+  name     = "rockey-rg"
   location = "centralindia"
 }
